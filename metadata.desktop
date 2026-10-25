@@ -1,0 +1,9 @@
+[SddmGreeterTheme]
+Name=Stealth Dark v2
+Description=Ultra clean minimal dark theme
+Author=DarkXZ
+Version=2.0
+License=MIT
+Type=sddm-theme
+MainScript=Main.qml
+Screenshot=preview.png
