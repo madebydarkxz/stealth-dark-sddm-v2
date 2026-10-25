@@ -1,3 +1,4 @@
+![Uploading sfondo.jpg…]()
 # 🖤 Stealth Dark SDDM v2
 
 An ultra-clean, minimal, and modern dark theme for **SDDM** (Simple Desktop Display Manager). Built for high performance, sleek aesthetics, and flawless Qt6/Qt5 compatibility.
